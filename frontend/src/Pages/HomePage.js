@@ -41,7 +41,7 @@ const HomePage = () => {
           fontFamily="Work sans"
           fontWeight="bold"
         >
-          Text-A-Lot
+          Chatsphere
         </Text>
       </Box>
       <Box bg="blue.50" w="100%" p={4} borderRadius="lg" borderColor="black" borderWidth="1px">
