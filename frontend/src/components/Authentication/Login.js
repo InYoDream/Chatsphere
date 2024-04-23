@@ -124,17 +124,6 @@ const Login = () => {
         Guest User Login
       </Button>
 
-      <Button
-        //fontWeight="bold"
-        variant="solid"
-        colorScheme="cyan"
-        width="100%"
-        onClick={() => {
-          //console.log("video");
-          //navigate("/https://dev.to/siddharthssb11")
-        }}
-      >
-      </Button>
     </VStack>
   );
 };
