@@ -134,15 +134,6 @@ const Login = () => {
           //navigate("/https://dev.to/siddharthssb11")
         }}
       >
-        <a
-          href="https://www.loom.com/share/339d7abfe1924bbd8cb53c0cc3fac551"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="Demo-Video"
-          width="100%"
-        >
-          <strong>Demo&nbsp;📽️&nbsp;Video</strong>, Recommended <strong><u>2x SPEED</u></strong>&nbsp;&#10132;
-        </a>
       </Button>
     </VStack>
   );
